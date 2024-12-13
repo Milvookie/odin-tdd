@@ -1,0 +1,19 @@
+{
+  "name": "odin-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milvookie/odin-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milvookie/odin-tdd/issues"
+  },
+  "homepage": "https://github.com/Milvookie/odin-tdd#readme"
+}
